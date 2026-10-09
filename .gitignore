@@ -1,0 +1,6 @@
+target/
+data/
+*.db
+*.mv.db
+.idea/
+.vscode/
